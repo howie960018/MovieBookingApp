@@ -92,8 +92,8 @@ export const Ticketbookingform = () => {
     var fulldate = day + "-0" + month + "-" + fullyear;
     e.preventDefault();
     var options = {
-      key: "rzp_test_ijnaOYyX5ybBbr",
-      key_secret: "px9p8lKaMYvbOxJTnGpXqCrV",
+      key: "rzp_test_BWuMFDVbX6czPi", //payment gateway key
+      key_secret: "kJTk6MzzW38v3CSOujUZqUda", //payment gateway key_secret
       amount: ticketcost * 100 * ceats,
       currency: "INR",
       name: "AK CINEMAS ",

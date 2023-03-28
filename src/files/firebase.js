@@ -1,13 +1,13 @@
  import firebase from 'firebase';
  
  var firebaseConfig = {
-    apiKey: "AIzaSyBkxFx6Iid_6QMY_n-vUlPs3rwgAPqfTBM",
-    authDomain: "ticket-booking-app-c2d66.firebaseapp.com",
-    projectId: "ticket-booking-app-c2d66",
-    storageBucket: "ticket-booking-app-c2d66.appspot.com",
-    messagingSenderId: "207269504185",
-    appId: "1:207269504185:web:cf75be7a8b8d7cbda86768",
-    measurementId: "G-0BTHRH3YRB"
+  apiKey: "AIzaSyDhGUJe1vlpWgQMHNsJrmBuD9FluA-4L6c",
+  authDomain: "movie-booking-app-fd15c.firebaseapp.com",
+  projectId: "movie-booking-app-fd15c",
+  storageBucket: "movie-booking-app-fd15c.appspot.com",
+  messagingSenderId: "34944368503",
+  appId: "1:34944368503:web:b9abe0e259c6f912aa2b72",
+  measurementId: "G-TZJL2GRH0P"
   };
   // Initialize Firebase
    var fire = firebase.initializeApp(firebaseConfig);
